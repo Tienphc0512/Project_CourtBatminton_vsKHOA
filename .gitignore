@@ -1,0 +1,14 @@
+.env
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# React Native
+.expo/
+.expo-shared/
+
+
